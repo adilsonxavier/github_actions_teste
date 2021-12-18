@@ -15,5 +15,5 @@ jobs:
           user: adilsonxavier
           password: Maysaaxs2004*
           local_dir: "./public_html"
-          server-dir: public_html/
+          remote_dir: public_html/
           delete: "false"
