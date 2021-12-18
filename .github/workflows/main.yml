@@ -17,4 +17,4 @@ jobs:
         server: adilsonxdesouza.somee.com
         username: adilsonxavier
         password: Maysaaxs2004*
-        server-dir: public_html/
+        server-dir: ./public_html/
